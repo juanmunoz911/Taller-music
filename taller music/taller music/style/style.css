@@ -1,0 +1,161 @@
+.img{
+    display: flex;
+    height: 600px;
+    width: 1340px;
+    background-image: url(../IMG/angel-jimenez.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.musica{
+    display: flex;
+    color: antiquewhite;
+    align-items: center;
+    margin-left: 550px;
+    font-size: 100px;
+}
+.di{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin-left: 200px;
+    width: 400px;
+    margin-top: 200px;
+}
+.sii{
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    margin-right: 500px;
+}
+
+.music{
+    color: fuchsia;
+}
+.go{
+    background-color: rgb(233, 48, 72);
+    color: aliceblue;
+    text-decoration: none;
+    width: 100px;
+    height: 25px;
+    border-radius: 10px;
+    margin-top: 10px; 
+    margin-left: 1px;
+}
+.ga{
+    background-color: rgb(233, 48, 72);
+    color: aliceblue;
+    text-decoration: none;
+    width: 100px;
+    height: 25px;
+    border-radius: 10px;
+    margin-top: 20px; 
+    margin-left: 100px;
+}
+.img1{
+    display: flex;
+    height: 450px;
+    width: 400px;
+    margin-top: 180px;
+    margin-left: 80px;
+}
+.hola{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+.holi{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 100px;
+    color: fuchsia;
+}
+.texti{
+    margin-left: 100px;
+}
+.sec{
+    display: flex;
+    flex-direction: column;
+}
+.sed{
+    display: flex;
+    flex-direction: column;
+}
+.img2{
+    display: flex;
+    height: 450px;
+    margin-top: 150px;
+    margin-left: 1px;
+}
+.todo{
+    display: flex;
+    flex-direction: row;
+}
+.img3{
+    display: flex;
+    height: 500px;
+    width: 1340px;
+    margin-top: 100px;
+    background-image: url(../IMG/john-raptis.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ultimo{
+    display: flex;
+    flex-direction: column;
+    margin-left: 800px;
+    margin-top: 100px;
+}
+.texx{
+    display: flex;
+    color: antiquewhite;
+    font-size: 40px;
+}
+.texxx{
+    display: flex;
+    color: antiquewhite;
+}
+.gu{
+    display: flex;
+    background-color: rgb(233, 48, 72);
+    color: aliceblue;
+    text-decoration: none;
+    width: 100px;
+    height: 25px;
+    border-radius: 30px;
+    margin-top: 10px;
+}
+.rojo{
+    display: flex;
+    height: 300px;
+    width: 1340px;
+    flex-direction: column;
+    background-color: rgb(233, 48, 72);
+}
+.columna{
+    display: flex;
+    margin-top: 50px;
+    gap: 80px;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 200px;
+    color: antiquewhite;
+    
+}
+hr{
+    width: 70%;
+    border-bottom: 1px solid rgb(211, 205, 205);
+}
+.ca{
+    display: flex;
+}
+.uno{
+    display: flex;
+    margin-left: 650px;
+    color: antiquewhite;
+}
+.dos{
+    display: flex;
+    margin-left: 200px;
+    color: antiquewhite;
+}
